@@ -1,5 +1,6 @@
 # Introduction to Machine Learning for Statisticians
 
+- **Instructor:** Rafael A. Irizarry.
 - **Prerequisites:** Familiarity with R.
 - **Software:** R.
 - **Duration:** 2 hours.
